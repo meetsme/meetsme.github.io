@@ -9,7 +9,7 @@ html,body {
 
 body {
   padding:3em 15px;
-  background-color:#35ACF3;
+  background-color:#63B5FF;
   display:table;
   font-family: 'Lato', sans-serif;
 }
@@ -117,7 +117,7 @@ form input[type="submit"] {
   letter-spacing:.2em;
   padding: 12px 0 14px;
   border:0;
-  background-color:#1380C0;
+  background-color:#4990E2;
   color:#fff;
   font-weight:500;
   border-radius: 0 0 6px 6px;
